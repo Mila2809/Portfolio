@@ -18,19 +18,19 @@ const About = () => {
                 Web Dev Student Full Stack
             </p>
             <blockquote className="text-end text-xl md:text-2xl mt-16 md:mt-32 mb-28 border-l-4 rounded-xl border-pink-300 pl-6">
-                "Passionate about front-end development, I'm a Full Stack Web
-                Development student working to master back-end technologies and
-                build complete, functional web solutions."
+                &quot;Passionate about front-end development, I&apos;m a Full
+                Stack Web Development student working to master back-end
+                technologies and build complete, functional web solutions.&quot;
             </blockquote>
             <div className="w-full py-4 px-5 rounded-2xl border-white border-2 md:border-4 bg-gris shadow-xl">
                 <div className="flex flex-row justify-between items-center">
-                    <h2 className="text-2xl font-bold mb-4">About me</h2>{" "}
+                    <h2 className="text-2xl font-bold mb-4">About me</h2>
                     <div className="flex flex-row justify-between">
                         <a
                             href="https://github.com/Mila2809"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="flex mr-5 items-center text-white hover:text-pink-300 transition-colors"
+                            className="flex mr- items-center text-white hover:text-pink-300 transition-colors"
                         >
                             <svg
                                 xmlns="http://www.w3.org/2000/svg"

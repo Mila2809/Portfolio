@@ -1,11 +1,6 @@
 import Link from "next/link";
 import Header from "@/components/header/header";
 import { createTable } from "@/mail";
-import localFont from "next/font/local";
-
-const octuple_max = localFont({
-    src: "./assets/fonts/Octuple-max-demo.ttf",
-});
 
 export default async function Home() {
     await createTable();
@@ -31,7 +26,7 @@ export default async function Home() {
                 </p>
                 <p className="text-2xl md:w-[550px] w-[300px] text-center">
                     Si tu restes ici trop longtemps, tu risques de finir comme
-                    lui... errant pour l’éternité sur cette page 404 !
+                    lui... errant pour l&apos;éternité sur cette page 404 !
                 </p>
                 <svg
                     className="mt-10 w-80 md:w-11/12"

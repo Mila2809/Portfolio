@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const Projects = () => {
     return (
         <section
@@ -7,12 +9,12 @@ const Projects = () => {
             <div className="flex flex-col lg:flex-row justify-center mb-16 md:mb-24 lg:mb-32 max-w-7xl mx-auto">
                 <div className="w-full lg:w-1/2 mb-6 lg:mb-0">
                     <div className="flex flex-col space-y-4">
-                        <img
+                        <Image
                             className="p-2 md:p-3 w-full rounded-xl md:rounded-3xl object-cover h-32 md:h-48"
                             src="./TP-2.png"
                             alt="Todo List Preview 1"
                         />
-                        <img
+                        <Image
                             className="p-2 md:p-3 w-full rounded-xl md:rounded-3xl object-cover h-64 md:h-96"
                             src="./TP-1.png"
                             alt="Todo List Preview 2"
@@ -100,7 +102,7 @@ const Projects = () => {
                             tracking daily tasks.
                         </p>
                     </div>
-                    <img
+                    <Image
                         className="p-2 md:p-3 w-full rounded-xl md:rounded-3xl object-cover h-64 md:h-96"
                         src="./TP-3.png"
                         alt="Todo List Preview 3"
@@ -110,7 +112,7 @@ const Projects = () => {
 
             <div className="flex flex-col lg:flex-row justify-center max-w-7xl mx-auto">
                 <div className="w-full lg:w-1/2 order-2 lg:order-1 mt-6 lg:mt-0">
-                    <img
+                    <Image
                         className="p-2 md:p-3 w-full rounded-xl md:rounded-3xl object-cover h-64 md:h-96 mb-4"
                         src="./P-3.png"
                         alt="Harry Potter Exchange Preview 1"
@@ -188,29 +190,29 @@ const Projects = () => {
                             Step into the magical world of Harry Potter with
                             this card exchange platform! This website allows
                             fans to collect, trade, and open booster packs
-                            filled with unique wizarding cards. Whether you're
-                            looking to complete your collection or swap rare
-                            cards with other enthusiasts, this platform offers a
-                            fun and interactive experience.
+                            filled with unique wizarding cards. Whether
+                            you&apos;re looking to complete your collection or
+                            swap rare cards with other enthusiasts, this
+                            platform offers a fun and interactive experience.
                         </p>
                     </div>
                 </div>
                 <div className="w-full lg:w-1/2 order-1 lg:order-2">
-                    <img
+                    <Image
                         className="p-2 md:p-3 w-full rounded-xl md:rounded-3xl object-cover h-40 md:h-48 mb-4"
                         src="./P-2.png"
                         alt="Harry Potter Exchange Preview 2"
                     />
                     <div className="flex flex-row w-full h-auto">
                         <div className="w-1/3 pr-2">
-                            <img
+                            <Image
                                 className="p-2 md:p-3 w-full h-full rounded-xl md:rounded-3xl object-cover"
                                 src="./P-4.png"
                                 alt="Harry Potter Exchange Preview 3"
                             />
                         </div>
                         <div className="w-2/3 pl-2">
-                            <img
+                            <Image
                                 className="p-2 md:p-3 w-full h-full rounded-xl md:rounded-3xl object-cover"
                                 src="./P-1.png"
                                 alt="Harry Potter Exchange Preview 4"
