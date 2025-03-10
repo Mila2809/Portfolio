@@ -3,12 +3,12 @@
 ## 🌐 Déploiement
 [URL...]
 
----
+
 
 ## 📌 Description
 Ce projet est un **portfolio professionnel** développé avec **Next.js 15+** (App Router & TypeScript). Il met en avant mon **parcours, mes compétences et mes projets** tout en intégrant un **formulaire de contact**.
 
----
+
 
 ## 🚀 Fonctionnalités
 - 🌍 **Pages principales :**
@@ -20,7 +20,6 @@ Ce projet est un **portfolio professionnel** développé avec **Next.js 15+** (A
 - ❌ **Page 404 stylisée** avec suggestions
 - 🎨 **Expérience utilisateur travaillée**
 
----
 
 ## 🛠️ Installation et Lancement
 
