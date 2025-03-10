@@ -72,7 +72,7 @@ const Contact = () => {
                                 type="submit"
                                 className="absolute text-sm mt-[65px] ml-[275px] md:mt-[156px] z-20 md:ml-[652px] bg-pink-300 hover:bg-pink-400 md:px-6 px-1 py-1 md:py-4 md:font-bold md:text-2xl rounded-md md:rounded-lg transition-colors"
                             >
-                                Envoyer
+                                Send
                             </button>
                         </div>
                     </form>
