@@ -30,7 +30,7 @@ const About = () => {
                             href="https://github.com/Mila2809"
                             target="_blank"
                             rel="noopener noreferrer"
-                            className="flex mr- items-center text-white hover:text-pink-300 transition-colors"
+                            className="flex mr-5 items-center text-white hover:text-pink-300 transition-colors"
                         >
                             <svg
                                 xmlns="http://www.w3.org/2000/svg"

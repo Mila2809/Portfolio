@@ -1,4 +1,11 @@
 import Image from "next/image";
+import TP1 from "/public/TP-1.png";
+import TP2 from "/public/TP-2.png";
+import TP3 from "/public/TP-3.png";
+import P1 from "/public/P-1.png";
+import P2 from "/public/P-2.png";
+import P3 from "/public/P-3.png";
+import P4 from "/public/P-4.png";
 
 const Projects = () => {
     return (
@@ -10,13 +17,17 @@ const Projects = () => {
                 <div className="w-full lg:w-1/2 mb-6 lg:mb-0">
                     <div className="flex flex-col space-y-4">
                         <Image
+                            width={500}
+                            height={500}
                             className="p-2 md:p-3 w-full rounded-xl md:rounded-3xl object-cover h-32 md:h-48"
-                            src="./TP-2.png"
+                            src={TP2}
                             alt="Todo List Preview 1"
                         />
                         <Image
+                            width={500}
+                            height={500}
                             className="p-2 md:p-3 w-full rounded-xl md:rounded-3xl object-cover h-64 md:h-96"
-                            src="./TP-1.png"
+                            src={TP1}
                             alt="Todo List Preview 2"
                         />
                     </div>
@@ -103,8 +114,10 @@ const Projects = () => {
                         </p>
                     </div>
                     <Image
+                        width={500}
+                        height={500}
                         className="p-2 md:p-3 w-full rounded-xl md:rounded-3xl object-cover h-64 md:h-96"
-                        src="./TP-3.png"
+                        src={TP3}
                         alt="Todo List Preview 3"
                     />
                 </div>
@@ -113,8 +126,10 @@ const Projects = () => {
             <div className="flex flex-col lg:flex-row justify-center max-w-7xl mx-auto">
                 <div className="w-full lg:w-1/2 order-2 lg:order-1 mt-6 lg:mt-0">
                     <Image
+                        width={500}
+                        height={500}
                         className="p-2 md:p-3 w-full rounded-xl md:rounded-3xl object-cover h-64 md:h-96 mb-4"
-                        src="./P-3.png"
+                        src={P3}
                         alt="Harry Potter Exchange Preview 1"
                     />
                     <div className="p-2 md:p-3 flex flex-col justify-between h-32 md:h-48">
@@ -199,22 +214,28 @@ const Projects = () => {
                 </div>
                 <div className="w-full lg:w-1/2 order-1 lg:order-2">
                     <Image
+                        width={500}
+                        height={500}
                         className="p-2 md:p-3 w-full rounded-xl md:rounded-3xl object-cover h-40 md:h-48 mb-4"
-                        src="./P-2.png"
+                        src={P2}
                         alt="Harry Potter Exchange Preview 2"
                     />
                     <div className="flex flex-row w-full h-auto">
                         <div className="w-1/3 pr-2">
                             <Image
+                                width={500}
+                                height={500}
                                 className="p-2 md:p-3 w-full h-full rounded-xl md:rounded-3xl object-cover"
-                                src="./P-4.png"
+                                src={P4}
                                 alt="Harry Potter Exchange Preview 3"
                             />
                         </div>
                         <div className="w-2/3 pl-2">
                             <Image
+                                width={500}
+                                height={500}
                                 className="p-2 md:p-3 w-full h-full rounded-xl md:rounded-3xl object-cover"
-                                src="./P-1.png"
+                                src={P1}
                                 alt="Harry Potter Exchange Preview 4"
                             />
                         </div>
