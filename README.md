@@ -1,26 +1,27 @@
 # Portfolio - Mila PAOUNOV
 
-## 🌐 Déploiement
+## Déploiement
 [[Portfolio](https://mila-paounov.vercel.app/)]
 
+---
 
-
-## 📌 Description
+## Description
 Ce projet est un **portfolio professionnel** développé avec **Next.js 15+** (App Router & TypeScript). Il met en avant mon **parcours, mes compétences et mes projets** tout en intégrant un **formulaire de contact**.
 
+---
 
-
-## 🚀 Fonctionnalités
-- 🌍 **Pages principales :**
+## Fonctionnalités
+- **Pages principales :**
   - **About me (/about)** : Introduction et compétences
   - **Projet (/project)** : Détail des projets
   - **Contact (/contact)** : Formulaire de contact fonctionnel
-- 📱 **Responsive design**
-- ❌ **Page 404 stylisée** avec suggestions
-- 🎨 **Expérience utilisateur travaillée**
+- **Responsive design**
+- **Page 404 stylisée** avec suggestions
+- **Expérience utilisateur travaillée**
+  
+---
 
-
-## 🛠️ Installation et Lancement
+## Installation et Lancement
 
 ### 1️⃣ Prérequis
 - **Node.js** (version recommandée : 18+)
