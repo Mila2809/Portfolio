@@ -28,10 +28,9 @@ Ce site permet aux utilisateurs de :
   
 ---
 
-## 📷 Aperçu du rendu
+## Aperçu du rendu
 
-> ![image](https://github.com/user-attachments/assets/79899823-6357-41f5-a93a-95531ca18100)
-
+ ![image](https://github.com/user-attachments/assets/79899823-6357-41f5-a93a-95531ca18100)
 
 ---
 
