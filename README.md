@@ -1,4 +1,6 @@
-# Portfolio - Mila PAOUNOV
+# 📂 Portfolio - Mila PAOUNOV
+Ce projet est un **portfolio professionnel** développé avec **Next.js 15+** (App Router & TypeScript).
+Il met en avant mon **parcours, mes compétences et mes projets** tout en intégrant un **formulaire de contact**.
 
 ---
 
@@ -8,7 +10,10 @@
 ---
 
 ## Description
-Ce projet est un **portfolio professionnel** développé avec **Next.js 15+** (App Router & TypeScript). Il met en avant mon **parcours, mes compétences et mes projets** tout en intégrant un **formulaire de contact**.
+Ce site permet aux utilisateurs de :
+- Voire mon profil ( parcours, compétence, etc)
+- Accéder à mes différents projets
+- Me contacter si besoin
 
 ---
 
