@@ -30,7 +30,8 @@ Ce site permet aux utilisateurs de :
 
 ## Aperçu du rendu
 
- ![image](https://github.com/user-attachments/assets/555276e3-628f-411a-b6d8-2d885460785f)
+![image](https://github.com/user-attachments/assets/ff0d0cbb-7b44-41e1-b50a-4021b97e8aed)
+
 
 ---
 
